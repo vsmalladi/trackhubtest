@@ -1,0 +1,28 @@
+track colorByStrandSuperTrack
+superTrack on
+shortLabel bigBed colorByStrand
+longLabel Testing bigBeds with colorByStrand
+
+track colorByStrandBed6
+superTrack colorByStrandSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType6.bb
+shortLabel bed 06 colorByStrand
+longLabel Testing bed 6 with colorByStrand
+type bigBed 6
+colorByStrand 46,0,184 238,85,34
+
+track colorByStrandBed9
+superTrack colorByStrandSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType9.bb
+shortLabel bed 09 colorByStrand
+longLabel Testing bed 9 with colorByStrand
+type bigBed 9
+colorByStrand 46,0,184 238,85,34
+
+track colorByStrandBed12
+superTrack colorByStrandSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType12.bb
+shortLabel bed 12 colorByStrand
+longLabel Testing bed 12 colorByStrand
+type bigBed 12
+colorByStrand 46,0,184 238,85,34

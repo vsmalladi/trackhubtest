@@ -1,0 +1,46 @@
+track bigBedSuperTrack
+superTrack on
+shortLabel bigBed superTrack
+longLabel Testing bigBeds with superTrack
+
+track bigBed3SuperTrack
+superTrack bigBedSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType3.bb
+shortLabel bigBed 03 superTrack
+longLabel Testing bigBed 3 in superTrack
+type bigBed 3
+
+track bigBed4SuperTrack
+superTrack bigBedSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType4.bb
+shortLabel bigBed 04 superTrack
+longLabel Testing bigBed 4 in superTrack
+type bigBed 4
+
+track bigBed5SuperTrack
+superTrack bigBedSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType5.bb
+shortLabel bigBed 05 superTrack
+longLabel Testing bigBed 5 in superTrack
+type bigBed 5
+
+track bigBed6SuperTrack
+superTrack bigBedSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType6.bb
+shortLabel bigBed 06 superTrack
+longLabel Testing bigBed 6 in superTrack
+type bigBed 6
+
+track bigBed9SuperTrack
+superTrack bigBedSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType9.bb
+shortLabel bigBed 09 superTrack
+longLabel Testing bigBed 9 in superTrack
+type bigBed 9
+
+track bigBed12SuperTrack
+superTrack bigBedSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType12.bb
+shortLabel bigBed 12 superTrack
+longLabel Testing bigBed 12 in superTrack
+type bigBed 12

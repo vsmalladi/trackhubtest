@@ -1,0 +1,35 @@
+track bigBed3
+bigDataUrl testFiles/testBigBeds/bigBedType3.bb
+shortLabel bigBed 03
+longLabel Testing bigBed 3
+type bigBed 3
+
+track bigBed4
+bigDataUrl testFiles/testBigBeds/bigBedType4.bb
+shortLabel bigBed 04
+longLabel Testing bigBed 4
+type bigBed 4
+
+track bigBed5
+bigDataUrl testFiles/testBigBeds/bigBedType5.bb
+shortLabel bigBed 05
+longLabel Testing bigBed 5
+type bigBed 5
+
+track bigBed6
+bigDataUrl testFiles/testBigBeds/bigBedType6.bb
+shortLabel bigBed 06
+longLabel Testing bigBed 6
+type bigBed 6
+
+track bigBed9
+bigDataUrl testFiles/testBigBeds/bigBedType9.bb
+shortLabel bigBed 09
+longLabel Testing bigBed 9
+type bigBed 9
+
+track bigBed12
+bigDataUrl testFiles/testBigBeds/bigBedType12.bb
+shortLabel bigBed 12
+longLabel Testing bigBed 12
+type bigBed 12

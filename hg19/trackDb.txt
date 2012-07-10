@@ -1,0 +1,30 @@
+#File for base bigBed test
+include bigBed.txt
+
+#File for bigBed test within Super track
+include bigBedSuperTrack.txt
+
+#File for spectrum tests
+include spectrum.txt
+
+#File for scoreFilter test
+include scoreFilter.txt
+
+#File for scoreFilter test and user configuration, includes scoreFilterLimits
+include scoreFilterCfg.txt
+
+#File for scoreFilterByRange test
+include scoreFilterByRange.txt
+
+#File for minGrayLevel test
+include minGrayLevel.txt
+
+#File for minGrayLevel test and user configuration, includes scoreMin and scoreMax
+include minGrayLevelCfg.txt
+
+#File for colorByStrand test
+include colorByStrand.txt
+
+#File for itemRgb test
+include itemRgb.txt
+

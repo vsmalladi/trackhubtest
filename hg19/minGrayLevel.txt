@@ -1,0 +1,36 @@
+track minGrayLevelSuperTrack
+superTrack on
+shortLabel bigBed minGrayLevel
+longLabel Testing bigBeds with minGrayLevel
+
+track minGrayLevelBed5
+superTrack minGrayLevelSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType5.bb
+shortLabel bed 05 minGrayLevel
+longLabel Testing bed 5 with minGrayLevel
+type bigBed 5
+minGrayLevel 4
+
+track minGrayLevelBed6
+superTrack minGrayLevelSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType6.bb
+shortLabel bed 06 minGrayLevel
+longLabel Testing bed 6 with minGrayLevel
+type bigBed 6
+minGrayLevel 5
+
+track minGrayLevelBed9
+superTrack minGrayLevelSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType9.bb
+shortLabel bed 09 minGrayLevel
+longLabel Testing bed 9 with minGrayLevel
+type bigBed 9
+minGrayLevel 6
+
+track minGrayLevelBed12
+superTrack minGrayLevelSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType12.bb
+shortLabel bed 12 minGrayLevel
+longLabel Testing bed 12 minGrayLevel
+type bigBed 12
+minGrayLevel 7

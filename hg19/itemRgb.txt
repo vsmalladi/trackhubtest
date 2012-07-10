@@ -1,0 +1,20 @@
+track itemRgbSuperTrack
+superTrack on
+shortLabel bigBed itemRgb
+longLabel Testing bigBeds with itemRgb
+
+track itemRgbBed9
+superTrack itemRgbSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType9.bb
+shortLabel bed 09 itemRgb
+longLabel Testing bed 9 with itemRgb
+type bigBed 9
+itemRgb on
+
+track itemRgbBed12
+superTrack itemRgbSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType12.bb
+shortLabel bed 12 itemRgb
+longLabel Testing bed 12 itemRgb
+type bigBed 12
+itemRgb on

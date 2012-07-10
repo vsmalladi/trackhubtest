@@ -1,0 +1,40 @@
+track scoreFilterCfgSuperTrack
+superTrack on
+shortLabel bigBed scoreFilter Cfg
+longLabel Testing bigBeds with scoreFilter and user configuration
+
+track scoreFilterCfgBed5
+superTrack scoreFilterCfgSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType5.bb
+shortLabel bed 05 scoreFilter Cfg
+longLabel Testing bed 5 with scoreFilter and user configuration
+type bigBed 5 .
+scoreFilter 300
+scoreFilterLimits 0:400
+
+track scoreFilterCfgBed6
+superTrack scoreFilterCfgSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType6.bb
+shortLabel bed 06 scoreFilter Cfg
+longLabel Testing bed 6 with scoreFilter and user configuration
+type bigBed 6 .
+scoreFilter 400
+scoreFilterLimits 0:500
+
+track scoreFilterCfgBed9
+superTrack scoreFilterCfgSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType9.bb
+shortLabel bed 09 scoreFilter Cfg
+longLabel Testing bed 9 with scoreFilter and user configuration
+type bigBed 9 .
+scoreFilter 700
+scoreFilterLimits 0:800
+
+track scoreFilterCfgBed12
+superTrack scoreFilterCfgSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType12.bb
+shortLabel bed 12 scoreFilter Cfg
+longLabel Testing bed 12 scoreFilter and user configuration
+type bigBed 12 .
+scoreFilter 200
+scoreFilterLimits 0:900

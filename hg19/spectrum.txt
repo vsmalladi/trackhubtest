@@ -1,0 +1,36 @@
+track spectrumSuperTrack
+superTrack on
+shortLabel bigBed spectrum
+longLabel Testing bigBeds with spectrum
+
+track spectrumBed5
+superTrack spectrumSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType5.bb
+shortLabel bed 05 spectrum
+longLabel Testing bed 05 with spectrum
+type bigBed 5
+spectrum on
+
+track spectrumBed6
+superTrack spectrumSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType6.bb
+shortLabel bed 06 spectrum
+longLabel Testing bed 6 with spectrum
+type bigBed 6
+spectrum on
+
+track spectrumBed9
+superTrack spectrumSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType9.bb
+shortLabel bed 09 spectrum
+longLabel Testing bed 9 with spectrum
+type bigBed 9
+spectrum on
+
+track spectrumBed12
+superTrack spectrumSuperTrack full
+bigDataUrl testFiles/testBigBeds/bigBedType12.bb
+shortLabel bed 12 spectrum
+longLabel Testing bed 12 with spectrum
+type bigBed 12
+spectrum on
