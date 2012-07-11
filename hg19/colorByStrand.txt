@@ -23,6 +23,6 @@ track colorByStrandBed12
 superTrack colorByStrandSuperTrack full
 bigDataUrl testFiles/testBigBeds/bigBedType12.bb
 shortLabel bed 12 colorByStrand
-longLabel Testing bed 12 colorByStrand
+longLabel Testing bed 12 with colorByStrand
 type bigBed 12
 colorByStrand 46,0,184 238,85,34
