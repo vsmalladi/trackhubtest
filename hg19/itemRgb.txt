@@ -15,6 +15,6 @@ track itemRgbBed12
 superTrack itemRgbSuperTrack full
 bigDataUrl testFiles/testBigBeds/bigBedType12.bb
 shortLabel bed 12 itemRgb
-longLabel Testing bed 12 itemRgb
+longLabel Testing bed 12 with itemRgb
 type bigBed 12
 itemRgb on
