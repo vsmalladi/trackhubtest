@@ -1,0 +1,54 @@
+track bigWigCfg
+superTrack on
+shortLabel bigWig configuration superTrack
+longLabel Testing bigWig configurations within a superTrack
+
+track bigWigAutoScale
+superTrack bigWigCfg full
+bigDataUrl testFiles/testBigWigs/bigWigExample.bw 
+shortLabel bigWig autoScale
+longLabel Testing bigWig with autoScale
+type bigWig 0.000000 100.000000
+autoScale on
+
+track bigWigGraphTypeDefaultPoints
+superTrack bigWigCfg full
+bigDataUrl testFiles/testBigWigs/bigWigExample.bw
+shortLabel bigWig graphType points
+longLabel Testing bigWig with graphTypeDefault points
+type bigWig 0.000000 100.000000
+graphTypeDefault points
+
+track bigWigMaxHeightPixels
+superTrack bigWigCfg full
+bigDataUrl testFiles/testBigWigs/bigWigExample.bw
+shortLabel bigWig maxHeightPixels
+longLabel Testing bigWig with maxHeightPixels
+type bigWig 0.000000 100.000000
+maxHeightPixels 100:16:8
+
+track bigWigTransformFunc
+superTrack bigWigCfg full
+bigDataUrl testFiles/testBigWigs/bigWigExample.bw
+shortLabel bigWig transformFunc
+longLabel Testing bigWig with transformFunc
+type bigWig 0.000000 100.000000
+transformFunc LOG
+
+track bigWigViewLimits
+superTrack bigWigCfg full
+bigDataUrl testFiles/testBigWigs/bigWigExample.bw
+shortLabel bigWig viewLimits
+longLabel Testing bigWig with viewLimits
+type bigWig 0.000000 100.000000
+viewLimits 5:20
+
+track bigWigWindowingFunction
+superTrack bigWigCfg full
+bigDataUrl testFiles/testBigWigs/bigWigExample.bw
+shortLabel bigWig windowingFunction
+longLabel Testing bigWig with windowingFunction
+type bigWig 0.000000 100.000000
+windowingFunction mean
+
+
