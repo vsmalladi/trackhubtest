@@ -1,0 +1,7 @@
+track bigWig
+bigDataUrl testFiles/testBigWigs/bigWigExample.bw 
+shortLabel bigWig
+longLabel Testing bigWig
+type bigWig 0.000000 100.000000
+
+

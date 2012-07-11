@@ -1,0 +1,13 @@
+track bigWigSuperTrack
+superTrack on
+shortLabel bigWig superTrack
+longLabel Testing bigWig with superTrack
+
+track bigWigSuper
+superTrack bigWigSuperTrack full
+bigDataUrl testFiles/testBigWigs/bigWigExample.bw 
+shortLabel bigWig superTrack
+longLabel Testing bigWig in superTrack
+type bigWig 0.000000 100.000000
+
+

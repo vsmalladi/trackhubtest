@@ -7,7 +7,7 @@ track minGrayLevelCfgBed5
 superTrack minGrayLevelCfgSuperTrack full
 bigDataUrl testFiles/testBigBeds/bigBedType5.bb
 shortLabel bed 05 minGrayLevel Cfg
-longLabel Testing bed 5 with minGrayLevel and user configuration
+longLabel Testing bed 5 with minGrayLevel (44%) and user configuration
 type bigBed 5 .
 minGrayLevel 4
 scoreMin 0
@@ -17,7 +17,7 @@ track minGrayLevelCfgBed6
 superTrack minGrayLevelCfgSuperTrack full
 bigDataUrl testFiles/testBigBeds/bigBedType6.bb
 shortLabel bed 06 minGrayLevel Cfg
-longLabel Testing bed 6 with minGrayLevel and user configuration
+longLabel Testing bed 6 with minGrayLevel (55%) and user configuration
 type bigBed 6 .
 minGrayLevel 5
 scoreMin 0
@@ -27,7 +27,7 @@ track minGrayLevelCfgBed9
 superTrack minGrayLevelCfgSuperTrack full
 bigDataUrl testFiles/testBigBeds/bigBedType9.bb
 shortLabel bed 09 minGrayLevel Cfg
-longLabel Testing bed 9 with minGrayLevel and user configuration
+longLabel Testing bed 9 with minGrayLevel (66%)  and user configuration
 type bigBed 9 .
 minGrayLevel 6
 scoreMin 0
@@ -37,7 +37,7 @@ track minGrayLevelCfgBed12
 superTrack minGrayLevelCfgSuperTrack full
 bigDataUrl testFiles/testBigBeds/bigBedType12.bb
 shortLabel bed 12 minGrayLevel Cfg
-longLabel Testing bed 12 with minGrayLevel and user configuration
+longLabel Testing bed 12 with minGrayLevel (77%) and user configuration
 type bigBed 12 .
 minGrayLevel 7
 scoreMin 0
