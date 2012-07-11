@@ -34,7 +34,7 @@ track scoreFilterCfgBed12
 superTrack scoreFilterCfgSuperTrack full
 bigDataUrl testFiles/testBigBeds/bigBedType12.bb
 shortLabel bed 12 scoreFilter Cfg
-longLabel Testing bed 12 scoreFilter and user configuration
+longLabel Testing bed 12 with scoreFilter and user configuration
 type bigBed 12 .
 scoreFilter 200
 scoreFilterLimits 0:900

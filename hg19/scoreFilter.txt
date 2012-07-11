@@ -31,6 +31,6 @@ track scoreFilterBed12
 superTrack scoreFilterSuperTrack full
 bigDataUrl testFiles/testBigBeds/bigBedType12.bb
 shortLabel bed 12 scoreFilter
-longLabel Testing bed 12 scoreFilter
+longLabel Testing bed 12 with scoreFilter
 type bigBed 12
 scoreFilter 200

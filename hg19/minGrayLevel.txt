@@ -31,6 +31,6 @@ track minGrayLevelBed12
 superTrack minGrayLevelSuperTrack full
 bigDataUrl testFiles/testBigBeds/bigBedType12.bb
 shortLabel bed 12 minGrayLevel
-longLabel Testing bed 12 minGrayLevel
+longLabel Testing bed 12 with minGrayLevel
 type bigBed 12
 minGrayLevel 7

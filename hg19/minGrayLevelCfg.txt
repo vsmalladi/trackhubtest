@@ -37,7 +37,7 @@ track minGrayLevelCfgBed12
 superTrack minGrayLevelCfgSuperTrack full
 bigDataUrl testFiles/testBigBeds/bigBedType12.bb
 shortLabel bed 12 minGrayLevel Cfg
-longLabel Testing bed 12 minGrayLevelCfg
+longLabel Testing bed 12 with minGrayLevel and user configuration
 type bigBed 12 .
 minGrayLevel 7
 scoreMin 0
