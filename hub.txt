@@ -1,5 +1,5 @@
 hub HubUnit
-shortLabel Uniti Test Hub
+shortLabel Unit Test Hub
 longLabel Unit Test for Hubs
 genomesFile genomes.txt
 email vsmalladi@soe.ucsc.edu
